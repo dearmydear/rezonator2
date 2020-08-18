@@ -1,6 +1,6 @@
 #ifndef SCHEMA_WINDOW_H
 #define SCHEMA_WINDOW_H
-
+#include <QCloseEvent>
 #include "SchemaWindows.h"
 #include "core/Schema.h"
 #include "core/Element.h"

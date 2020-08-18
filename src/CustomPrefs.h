@@ -4,7 +4,7 @@
 #include "core/Units.h"
 
 #include <QJsonObject>
-
+#include<QSize>
 namespace CustomDataHelpers {
 
 QJsonObject loadCustomData(const QString& spec);

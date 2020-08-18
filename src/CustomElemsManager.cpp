@@ -14,7 +14,7 @@
 #include <QFormLayout>
 #include <QLabel>
 #include <QLineEdit>
-
+#include <QFile>
 namespace CustomElemsManager {
 
 QString libraryFile()

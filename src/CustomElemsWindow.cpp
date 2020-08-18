@@ -21,6 +21,7 @@
 #include <QTabWidget>
 #include <QToolButton>
 
+#include <QFile>
 namespace {
 
 CustomElemsWindow* __instance = nullptr;
